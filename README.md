@@ -1,11 +1,13 @@
 # Introduction to Signal Analysis Labs
 
 This repository holds the [Python](https://python.org) based lab assignments for the course "Introduction to Signal Analysis" at George Mason University.
-Only the foundational labs (labs 1-8) are included here. The semester project is provided in a separate repository.
+Only the foundational labs (labs 1-8) are included here. The semester project will be provided in a separate repository.
 
 ## Lab Topics
 
 * **Lab 1 - Getting started:** you will learn to set up, configure, and use the tools needed for the lab, including [PyCharm](https://www.jetbrains.com/pycharm/). You will learn the difference between Python scripts and Jupyter notebooks - both of which will be used throughout this class.
+
+View the notebook for lab 1: <a href=\"https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/010_lab_setting_up/setting_up.ipynb\"><img src=\"https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg\" alt=\"Render nbviewer\" /> </a>
 * **Lab 2 - Python:** after a brief refresher on the Python language, you will learn how to use Python and the `math` module of the standard library to generate sinusoidal signals.
 * **Lab 3 - NumPy and Matplotlib:** you will learn that the [`NumPy`](https://numpy.org) package greatly simplifies generating and processing discrete-time signals. The functions in the [`Matplotlib`](https://matplotlib.org) package let you visualize (plot) signals.
 * **Lab 4 - Translating Signal Processing Math to Code:** In our lectures, we often see expressions like
