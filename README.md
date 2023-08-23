@@ -9,7 +9,7 @@ Only the foundational labs (labs 1-8) are included here. The semester project wi
 [View the notebook for lab 1](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/010_lab_setting_up/setting_up.ipynb)
 * **Lab 2 - Python:** after a refresher on the Python language, we will explore a method to estimate the frequency of a (noisy) sinusoid very accurately.</br>
 [View the pre-lab notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/020_lab_intro_python/pre_lab_notes.ipynb)</br>
-[View the notebook for lab 1](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/020_lab_intro_python/lab.ipynb)
+[View the notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/020_lab_intro_python/lab.ipynb)
 * **Lab 3 - NumPy and Matplotlib:** you will learn that the [`NumPy`](https://numpy.org) package greatly simplifies generating and processing discrete-time signals. The functions in the [`Matplotlib`](https://matplotlib.org) package let you visualize (plot) signals.
 * **Lab 4 - Translating Signal Processing Math to Code:** In our lectures, we often see expressions like
 ```math
