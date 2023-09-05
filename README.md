@@ -11,8 +11,8 @@ Only the foundational labs (labs 1-8) are included here. The semester project wi
 [View the pre-lab notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/020_lab_intro_python/pre_lab_notes.ipynb)</br>
 [View the notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/020_lab_intro_python/lab.ipynb)
 * **Lab 3 - NumPy and Matplotlib:** you will learn that the [`NumPy`](https://numpy.org) package greatly simplifies generating and processing discrete-time signals. Using NumPy, we will experiment with sinusoidal signals</br>
-[View the pre-lab notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/pre_lab_notes.ipynb)</br>
-[View the notebook for lab 2](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/lab.ipynb)
+[View the pre-lab notebook for lab 3](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/pre_lab_notes.ipynb)</br>
+[View the notebook for lab 3](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/lab.ipynb)
 * **Lab 4 - Translating Signal Processing Math to Code:** In our lectures, we often see expressions like
 ```math
 y[n] = \sum_{k=0}^{M-1} h[k] \cdot x[n-k] \text{, for $n=0, 1, ..., N$.}
