@@ -14,7 +14,7 @@ Only the foundational labs (labs 1-8) are included here. The semester project wi
 [View the pre-lab notebook for lab 3](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/pre_lab_notes.ipynb)</br>
 [View the notebook for lab 3](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/030_lab_intro_numpy/lab.ipynb)
 * **Lab 4 - Writing Functions:** Digital Signal Processing often involves transforming aninput signal into an output signal. This is best accomplished by writing a function that accepts a signal as an input and produces a signal as the output from the function. You will learn how to write functions in Python.
-[View the pre-lab notebook for lab 4](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/040_lab_functions/pre_lab_notes.ipynb)</br>
+[View the pre-lab notebook for lab 4](https://nbviewer.org/format/slides/github/bepepa/intro-signal-analysis-lab/blob/main/labs/040_lab_functions/pre_lab_notes.ipynb)</br>
 [View the notebook for lab 4](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/040_lab_functions/lab.ipynb)
 
 * **Lab 5 - Translating Signal Processing Math to Code:** In our lectures, we often see expressions like

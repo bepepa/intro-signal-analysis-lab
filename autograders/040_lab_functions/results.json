@@ -1,0 +1,50 @@
+{
+    "tests": [
+        {
+            "name": "Does the docstring include `Parameters`",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "Does the function have a doc string",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "Does the docstring include `Returns`",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "Handles an empty signal",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "power of a complex-valued signal",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "power of a real-valued signal",
+            "score": 2,
+            "max_score": 2,
+            "status": "passed"
+        },
+        {
+            "name": "Is the power of a coplex signal real-valued?",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.00",
+    "score": 10
+}
