@@ -18,9 +18,12 @@ Only the foundational labs (labs 1-8) are included here. The semester project wi
 [View the notebook for lab 4](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/040_lab_functions/lab.ipynb)
 
 * **Lab 5 - Translating Signal Processing Math to Code:** In our lectures, we often see expressions like
-```math
-y[n] = \sum_{k=0}^{M-1} h[k] \cdot x[n-k] \text{, for $n=0, 1, ..., N$.}
-```
+$$
+x[n] = \sum_{k} X_k \cdot e^{j2\pi f_k n/f_s} \text{, for $n=0, 1, ..., N$.}
+$$
+[View the pre-lab notebook for lab 5](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/050_lab_math/pre_lab_notes.ipynb)</br>
+[View the notebook for lab 5](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/050_lab_math/lab.ipynb)
+
 You will learn how to interpret such expressions and translate them to Python code using NumPy functions.
 * **Lab 6 - Interacting with the World:** To be useful, signal processing systems must be able to accept signals from the real world. You will learn how to read signals from a file, a device, or from the network and to write processed signals back to a file or an output device.
 * **Lab 7 - Signal Processing Functions in NumPy and SciPy:** You will learn that the [`NumPy`](https://numpy.org) and [`SciPy`](https://scipy.org) packages provide a wealth of signal processing functions that can be used as building blocks for signal processing systems.
