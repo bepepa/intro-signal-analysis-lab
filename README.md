@@ -28,6 +28,4 @@ You will learn how to interpret such expressions and translate them to Python co
 [View the pre-lab notebook for lab 6](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/060_lab_plots/pre_lab_notes.ipynb)</br>
 [View the notebook for lab 6](https://nbviewer.org/github/bepepa/intro-signal-analysis-lab/blob/main/labs/060_lab_plots/lab.ipynb)
 
-* **Lab 7 - Interacting with the World:** To be useful, signal processing systems must be able to accept signals from the real world. You will learn how to read signals from a file, a device, or from the network and to write processed signals back to a file or an output device.
-* **Lab 8 - Signal Processing Functions in NumPy and SciPy:** You will learn that the [`NumPy`](https://numpy.org) and [`SciPy`](https://scipy.org) packages provide a wealth of signal processing functions that can be used as building blocks for signal processing systems.
-* **Lab 9 - Signal Processing Systems:** Combining signals from the real world and signal, processing functions, we can construct signal processing systems. You will learn how to combine signal processing functions to create larger systems for processing real world signals.
+* **Lab 7 - Synthesizing Music:** In this two-week lab, you learn to generate signals for a (well-known) music piece. This lab is derived from [one of the labs in our textbook](https://dspfirst.gatech.edu/chapters/DSP1st2eLabs/MusicSynthLab.pdf).
