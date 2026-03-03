@@ -2,10 +2,10 @@
 """
 This is the post-lab assessment for lab 3.
 
-See the accompanying notebook for instrutions
+See the accompanying notebook for instructions
 
 
-IMPORTANT: This file MUST be named `post_lab_check.py` 
+IMPORTANT: This file MUST be named `post_lab_check.py`
 """
 import numpy as np
 
@@ -13,7 +13,6 @@ import numpy as np
 #   Your code starts here                                 #
 #      paste your function below                          #
 ###########################################################
-
 
 
 ###########################################################
@@ -25,15 +24,15 @@ import numpy as np
 # The only output should be the word 'OK'
 if __name__ == "__main__":
 
-    #make a signal to test with
+    # make a signal to test with
     fs = 100
-    tt = np.arange(0, 1, 1/fs)
+    tt = np.arange(0, 1, 1 / fs)
 
     A = 3
     f = 5
-    phi = np.pi/7
+    phi = np.pi / 7
 
-    xx = A * np.cos(2*np.pi * f * tt + phi)
+    xx = A * np.cos(2 * np.pi * f * tt + phi)
 
     # power of a sinusoid is 1/2 * A^2
     assert np.allclose(sig_power(xx), 0.5 * A**2)
